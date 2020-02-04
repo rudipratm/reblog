@@ -1,0 +1,30 @@
+body{
+	padding-top:5%;
+	background-color: #f5f5f5;
+}
+.post-date{
+	background-color: #eeeeee;
+	padding: 4px;
+	margin: 3px 0;
+	display: block;
+}
+.content-text{
+	text-align: justify;
+}
+.post-content{
+	background-color:#e5e5e5;
+	padding: 10px;
+}
+.post-link{
+	color: black;
+}
+.post-thumb{
+	width: 100%;
+}
+.post-thumb-big{
+	width: 50%;
+}
+.main-content{
+	background-color: #e5e5e5;
+	padding: 10px;
+}
